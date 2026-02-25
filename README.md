@@ -12,7 +12,7 @@ An intelligent automated bidding bot for Freelancer.com with a modern web dashbo
 - **Bid Tracking**: Comprehensive logging and tracking of all placed bids
 - **Project Filtering**: Advanced filtering based on skills, languages, currencies, and countries
 
-## 🛠️ Tech Stack
+## 🛠️ Tech Stack.
 
 - **Backend**: FastAPI (Python)
 - **Frontend**: React.js
